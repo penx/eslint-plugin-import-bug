@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-import-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penx/eslint-plugin-import-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penx/eslint-plugin-import-bug/issues"
+  },
+  "homepage": "https://github.com/penx/eslint-plugin-import-bug#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.3.1",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}
